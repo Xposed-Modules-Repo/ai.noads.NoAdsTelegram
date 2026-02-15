@@ -24,7 +24,7 @@ This Xposed module is a tiny rebellion — a way to claw back some of that origi
 
     ⬇️ Hide bottom overlay – hide the media/attachment overlay when you don't need it.
 
-    👤 Disable swipe profile – stop accidentally opening profiles by swiping.
+    👤 Disable swipe profile – prevent accidentally closing the profile by swiping (keep it open).
 
     📱 Disable swipe channel – disable swiping gestures on channels (for those with twitchy thumbs).
 

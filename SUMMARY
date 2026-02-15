@@ -13,7 +13,7 @@ Hide pinned messages – clean up those chat headers, one less distraction.
 Hide translate dialog – no more "Translate this message" popups.
 Hide mute button – remove the mute notification button from chats.
 Hide bottom overlay – hide the media/attachment overlay when you don't need it.
-Disable swipe profile – stop accidentally opening profiles by swiping.
+Disable swipe profile – prevent accidentally closing the profile by swiping (keep it open).
 Disable swipe channel – disable swiping gestures on channels (for those with twitchy thumbs).
 
 Compatibility: Works with the official Telegram app v12.4.1.
