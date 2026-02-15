@@ -2,23 +2,31 @@ NoAdsTelegram
 
 This Xposed module is a tiny rebellion — a way to claw back some of that original spirit of freedom promised by Telegram at the beginning, one hook at a time.
 
-What it does
+    🔁 Enable forwarding & saving – even on content that was locked down.
 
-    🚫 Kills sponsored messages – no more "promoted channels" in your chat list.
+    💾 Enable saving stories – download and keep stories for later.
 
-    🎥 Stops video ads – watch those stories and videos ad‑free.
+    🚫 Disable sponsored messages – no more "promoted channels" cluttering your chat list.
 
-    🔁 Enables forwarding & saving – even on content that was locked down.
+    🎥 Disable video ads – watch videos and stories ad‑free.
 
-    💾 Lets you save stories – because you might actually want to keep them.
+    🗑️  Disable message deletion – if someone said it, they said it. (a.k.a. anti‑recall)
 
-    🗑️  Prevents message deletion (a.k.a. recall) – if someone said it, they said it.
+    🔄 Disable channel switching – prevent accidental channel changes via swipe or tap.
 
-    👻 Optionally hides the whole stories section – out of sight, out of mind.
+    👻 Hide stories section – out of sight, out of mind.
 
-    📌 Hides pinned messages – clean up those chat headers, one less distraction.
+    📌 Hide pinned messages – clean up those chat headers, one less distraction.
 
-    🌐 Hides the translate dialog – no more "Translate this message" popups cluttering your view.
+    🌐 Hide translate dialog – no more "Translate this message" popups.
+
+    🔇 Hide mute button – remove the mute notification button from chats.
+
+    ⬇️ Hide bottom overlay – hide the media/attachment overlay when you don't need it.
+
+    👤 Disable swipe profile – stop accidentally opening profiles by swiping.
+
+    📱 Disable swipe channel – disable swiping gestures on channels (for those with twitchy thumbs).
 
     🎛️  Everything is configurable – you decide which parts of this unholy magic to enable.
 
