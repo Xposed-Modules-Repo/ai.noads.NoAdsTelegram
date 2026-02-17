@@ -1,19 +1,24 @@
 NoAdsTelegram
 
-Everything is configurable – you decide which parts of this unholy magic to enable.
+Everything is configurable – mix and match your perfect Telegram.
 
 Enable forwarding & saving – even on content that was locked down.
 Enable saving stories – download and keep stories for later.
 Disable sponsored messages – no more "promoted channels" cluttering your chat list.
-Disable video ads – watch videos and stories ad‑free.
+Disable video ads – watch videos ad‑free.
 Disable message deletion – if someone said it, they said it. (a.k.a. anti‑recall)
-Disable channel switching – prevent accidental channel changes via swipe or tap.
+Disable chat deletion – stop chats from disappearing… but beware: they might just come back after a restart. (Spoopy!)
+Disable secret chat message deletion – keep those ephemeral messages forever.
+Disable self‑destruct – self‑destruct timers now hit zero and just… stop. Like a movie cliffhanger.
+Enable secret media save – save photos and videos from secret chats. Shhh.
 Hide stories section – out of sight, out of mind.
-Hide pinned messages – clean up those chat headers, one less distraction.
-Hide translate dialog – no more "Translate this message" popups.
+Disable channel switching – prevent accidental channel changes via swipe or tap.
+Hide pinned messages – clean up those chat headers.
+Hide translate dialog – no more "Translate this" popups.
 Hide mute button – remove the mute notification button from chats.
-Hide bottom overlay – hide the media/attachment overlay when you don't need it.
-Disable swipe profile – prevent accidentally closing the profile by swiping (keep it open).
+Hide bottom overlay – hide the bottom overlay when you don't need it.
+Hide typing – stop showing "typing…" to others. Your thoughts, your secret.
+Disable swipe profile – prevent accidentally closing the profile by swiping.
 Disable swipe channel – disable swiping gestures on channels (for those with twitchy thumbs).
 
-Compatibility: Works with the official Telegram app v12.4.1.
+Compatibility: Works with the official Telegram app (tested on v12.4.1+).
